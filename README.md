@@ -5,10 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krh1102002" alt="krh1102002" /></a> </p>
 
+- 🌱 I’m currently learning **Next.js && BlockChain**
+
+- 💬 Ask me about **react, git, GitHub, MongoDB**
+
+- 📫 How to reach me **hulke1102002@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/kunal-hulke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-hulke" height="30" width="40" /></a>
 <a href="https://instagram.com/kunalhulke01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunalhulke01" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/hulke1102002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hulke1102002" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chambhare007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chambhare007" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kunal_hulke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunal_hulke" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hulke1102002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hulke1102002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krh1102002&show_icons=true&locale=en" alt="krh1102002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krh1102002&" alt="krh1102002" /></p>
+
+### My GitHub Contributions
+![Snake_animation](https://github.com/krh1102002/krh1102002/blob/output/github-contribution-grid-snake.svg)
