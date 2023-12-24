@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **hulke1102002@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qLcdCROiBLvM0BaA8hJMVDABP9kdx6Jn/view?usp=sharing](https://drive.google.com/file/d/1qLcdCROiBLvM0BaA8hJMVDABP9kdx6Jn/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kunal-hulke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-hulke" height="30" width="40" /></a>
@@ -29,6 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krh1102002&show_icons=true&locale=en" alt="krh1102002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krh1102002&" alt="krh1102002" /></p>
-
-### My GitHub Contributions
-![Snake_animation](https://github.com/krh1102002/krh1102002/blob/output/github-contribution-grid-snake.svg)
