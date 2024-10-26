@@ -13,7 +13,7 @@
       <p>📫 How to reach me <strong>hulke1102002@gmail.com</strong></p>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Journey" width="200"/>
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Journey" width="500"/>
     </td>
   </tr>
 </table>
