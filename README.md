@@ -98,10 +98,7 @@
   </a> 
 </p>
 
-<h3 align="center">My Coding Journey:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Journey" />
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krh1102002&show_icons=true&locale=en&layout=compact" alt="krh1102002" /></p>
 
